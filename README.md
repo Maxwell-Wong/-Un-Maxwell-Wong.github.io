@@ -12,7 +12,7 @@ Happy year of the tiger!🐯
 - Address
   - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
 - Site
-
+  - ** maxwellwong.cn
 <!-- .slide vertical=true -->
 
 - E-mail: 78146185@qq.com
@@ -26,6 +26,7 @@ Happy year of the tiger!🐯
 
 - School of Computer Science, Sun Yat-sen University, Guangzhou
 - 中山大学 计算机学院 20级 计算机科学与技术
+<!-- .slide -->
 
 <!-- .slide vertical=true -->
 
@@ -37,14 +38,7 @@ Happy year of the tiger!🐯
 
 - Default
 
-## Projects
-
 <!-- .slide vertical=true -->
-
-- Default
-
-<!-- .slide vertical=true -->
-
 
 
 <!-- .slide -->
@@ -56,8 +50,6 @@ Happy year of the tiger!🐯
 
 
 <!-- .slide vertical=true -->
-
-
 
 <!-- .slide -->
 
