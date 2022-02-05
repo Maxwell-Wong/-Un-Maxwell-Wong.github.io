@@ -15,7 +15,8 @@
 - Phone
  
 - WeChat
-  - **Wu-\_-Kan**
+
+
 - E-mail:
  
 
