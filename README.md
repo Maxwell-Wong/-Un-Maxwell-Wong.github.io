@@ -37,6 +37,7 @@ Happy year of the tiger!🐯
 <!-- .slide -->
 
 ## Honors
+
 <!-- .slide vertical=true -->
 - Default
 
@@ -46,12 +47,14 @@ Happy year of the tiger!🐯
 
 ## Experience
 
+<!-- .slide vertical=true -->
 - Default
 
 <!-- .slide -->
 
 ## Blogs
 
+<!-- .slide vertical=true -->
 - Default
 
 
