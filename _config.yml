@@ -679,6 +679,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               value: "White"
             - key: data-background-video
               value: "2022New year movie.mp4"
+            - key: data-background-video-loop
+              value: "true"
           prepend: |
             <link
               rel="stylesheet"
