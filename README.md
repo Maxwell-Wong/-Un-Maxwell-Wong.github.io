@@ -31,18 +31,14 @@ Happy year of the tiger!🐯
 
 ## Projects
 
-- Default
-
 <!-- .slide vertical=true -->
 
-
+- Default
 <!-- .slide -->
 
 ## Honors
-- Default
-
 <!-- .slide vertical=true -->
-
+- Default
 
 <!-- .slide vertical=true -->
 
