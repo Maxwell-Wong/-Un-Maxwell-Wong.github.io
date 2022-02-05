@@ -41,8 +41,6 @@ Happy year of the tiger!🐯
 <!-- .slide vertical=true -->
 - Default
 
-<!-- .slide vertical=true -->
-
 <!-- .slide -->
 
 ## Experience
@@ -54,13 +52,8 @@ Happy year of the tiger!🐯
 
 ## Blogs
 
-<!-- .slide vertical=true -->
+<!-- .slide vertical=true -->  
 - Default
-
-
-<!-- .slide vertical=true -->
-
-
 
 <!-- .slide -->
 
