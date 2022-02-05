@@ -15,13 +15,8 @@ Happy year of the tiger!🐯
 
 <!-- .slide vertical=true -->
 
-- Phone
- 
-- WeChat
+- E-mail: 78146185@qq.com
 
-
-- E-mail:
- 
 
 <!-- .slide -->
 
@@ -29,8 +24,8 @@ Happy year of the tiger!🐯
 
 <!-- .slide vertical=true -->
 
-School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
-
+- School of Computer Science, Sun Yat-sen University, Guangzhou
+  （中山大学 计算机学院 20级 计算机科学与技术）
 
 <!-- .slide vertical=true -->
 
@@ -40,8 +35,13 @@ School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
 
 ## Projects
 
+- Default
+
+## Projects
+
 <!-- .slide vertical=true -->
 
+- Default
 
 <!-- .slide vertical=true -->
 
@@ -50,7 +50,7 @@ School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
 <!-- .slide -->
 
 ## Honors
-
+- Default
 
 <!-- .slide vertical=true -->
 
@@ -63,12 +63,13 @@ School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
 
 ## Experience
 
-
+- Default
 
 <!-- .slide -->
 
 ## Blogs
 
+- Default
 
 
 <!-- .slide vertical=true -->
