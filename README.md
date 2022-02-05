@@ -25,7 +25,7 @@ Happy year of the tiger!🐯
 <!-- .slide vertical=true -->
 
 - School of Computer Science, Sun Yat-sen University, Guangzhou
-  （中山大学 计算机学院 20级 计算机科学与技术）
+- 中山大学 计算机学院 20级 计算机科学与技术
 
 <!-- .slide vertical=true -->
 
